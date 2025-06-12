@@ -33,6 +33,12 @@ This project proposes a deep learning-based approach that automatically detects 
 4. Evaluate
 
 ![image](https://github.com/user-attachments/assets/f903060f-4da1-4dc2-9def-80f051f93832)
+![image](https://github.com/user-attachments/assets/7426dc45-4d5b-4bdd-a64d-9d1fa9a8bcb5)
+![image](https://github.com/user-attachments/assets/989f04b9-7336-4c5b-bed0-5877567f87f1)
+![image](https://github.com/user-attachments/assets/79ae7344-3e3e-4f81-8cd4-9597347c404c)
+
+
+
 
    
 📊 Results

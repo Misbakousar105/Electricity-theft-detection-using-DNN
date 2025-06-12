@@ -31,6 +31,9 @@ This project proposes a deep learning-based approach that automatically detects 
 2. Install dependencies
 3. Train the model
 4. Evaluate
+
+![image](https://github.com/user-attachments/assets/f903060f-4da1-4dc2-9def-80f051f93832)
+
    
 📊 Results
 The model achieves high precision and recall on test data, accurately identifying electricity theft with minimal false positives. Performance can be further improved
